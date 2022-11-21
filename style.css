@@ -1,0 +1,9 @@
+*{
+    display: inline-block;
+}
+body{
+    background-color: bisque;
+}
+img{
+    border-radius: 10px;
+}
